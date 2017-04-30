@@ -1,0 +1,23 @@
+body {
+	background-color: #9ae59a;
+}
+
+.jumbotron {
+    position: relative;
+    background: #000 url("https://www.universetoday.com/wp-content/uploads/2009/09/SED_wall_1920x1200.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    color: #c1f0c1;
+    overflow: hidden;
+    font-family: 'Hind', sans-serif;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+#game {
+	font-size: 28px;
+	font-family: 'Hind', sans-serif;
+	text-align: center;
+}
+
